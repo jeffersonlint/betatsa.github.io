@@ -2235,6 +2235,10 @@ html {
 /**
  * Remove default margin.
  */
+nav {
+  margin: 0;
+}
+
 body {
   margin: 0;
 }
