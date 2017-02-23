@@ -3,6 +3,19 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+
+#head{
+  background-image: url('img/stpa.jpg');
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -2;
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  /*min-height: 100%;*/
+}
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
