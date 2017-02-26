@@ -2000,6 +2000,11 @@ input[type=range] + .thumb {
   padding-bottom: 1rem;
 }
 
+.section img{
+  height: 175px;
+  align-content: center;
+}
+
 .section.no-pad {
   padding: 0;
 }
@@ -3528,7 +3533,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #88acfb;
 }
 
 .btn-floating {
@@ -5440,7 +5445,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav a.btn:hover, .side-nav a.btn-large:hover, .side-nav a.btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #88acfb;
 }
 
 .side-nav a.btn-floating:hover {
